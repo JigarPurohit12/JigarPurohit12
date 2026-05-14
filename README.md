@@ -13,7 +13,7 @@
 
 <div align="center">
 
-# `$ whoami` → **Jigar Purohit**
+# **Jigar Purohit**
 
 ### ⚡ Data Scientist · ML Engineer · SQL Developer
 
@@ -154,11 +154,19 @@ NLP pipeline using pre-trained GloVe embeddings + hybrid CNN + BiLSTM architectu
 
 <div align="center">
 
-![Jigar's GitHub Stats](https://github-readme-stats.vercel.app/api?username=JigarPurohit12&show_icons=true&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=8B949E&icon_color=58A6FF)
+## `>> STATS`
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=JigarPurohit12&layout=compact&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=8B949E)
+<div align="center">
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=JigarPurohit12&theme=github-dark-blue&hide_border=true&background=0D1117&ring=58A6FF&fire=FF6B35&currStreakLabel=58A6FF)
+![Jigar's GitHub Stats](https://github-readme-stats.vercel.app/api?username=JigarPurohit12&show_icons=true&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=8B949E&icon_color=58A6FF&count_private=true&include_all_commits=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=JigarPurohit12&layout=donut&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=8B949E&langs_count=6)
+
+![GitHub Streak](https://streak-stats.demolab.com/?user=JigarPurohit12&theme=dark&hide_border=true&background=0D1117&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF&sideLabels=8B949E&dates=8B949E)
+
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=JigarPurohit12&theme=github-compact&bg_color=0D1117&color=58A6FF&line=58A6FF&point=FFFFFF&area=true&hide_border=true)
+
+</div>
 
 </div>
 
