@@ -15,14 +15,13 @@
 
 # `$ whoami` → **Jigar Purohit**
 
-### ⚡ Data Scientist · ML Engineer · AI Builder
+### ⚡ Data Scientist · ML Engineer · SQL Developer
 
 *Turning raw data into decisions. Building systems that learn.*
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/jigarpurohit12)
 [![GitHub](https://img.shields.io/badge/GitHub-171515?style=for-the-badge&logo=github&logoColor=white)](https://github.com/JigarPurohit12)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jpurohit2024@fau.edu)
-[![AWS](https://img.shields.io/badge/AWS_Certified-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=FF9900)](https://aws.amazon.com)
 
 </div>
 
@@ -32,9 +31,9 @@
 class JigarPurohit:
     def __init__(self):
         self.name        = "Jigar Purohit"
-        self.location    = "Boca Raton, Florida 🇺🇸"
+        self.location    = "Boca Raton, Florida, USA"
         self.education   = "M.S. Computer Science @ Florida Atlantic University (GPA: 3.96)"
-        self.focus       = ["Machine Learning", "Data Science", "LLMs & Agentic AI"]
+        self.focus       = ["Machine Learning", "Data Science", ,"SQL", "LLMs & Agentic AI"]
         self.currently   = "Building AI-powered analytics systems"
         self.superpower  = "Making models actually work in production"
 
